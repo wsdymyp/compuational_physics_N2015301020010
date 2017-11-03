@@ -16,3 +16,5 @@
 [exercise5](http://note.youdao.com/noteshare?id=ddaf1e680c7f9b0e836f3ee9f1561d0e)
 
 [exercise6](http://note.youdao.com/noteshare?id=2cbe067745e04020e10f7fb40e07f9ee)
+
+[exercise7](http://note.youdao.com/noteshare?id=17d5860c28094e2dbc6baa86ecec084c)
