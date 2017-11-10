@@ -20,3 +20,5 @@
 [exercise7](http://note.youdao.com/noteshare?id=17d5860c28094e2dbc6baa86ecec084c)
 
 [midexercise](http://note.youdao.com/noteshare?id=d2740a914c0758f7ce8edbcb8a41b0da)
+
+[exercise8](http://note.youdao.com/noteshare?id=20942cc69d689d956d87082db19f7041)
